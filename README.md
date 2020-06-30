@@ -2,6 +2,11 @@
 This is the work I undertook during my Complexity and Networks course at Imperial College.
 
 
+The course was split into two parts: Complexity and Networks. This repository reflect this structure - you
+can find information regarding each half inside the respective folders.
+
+This is a short piece about the Complexity and Networks course:
+
 Stephen Hawking has predicted that the 21st Century will be “the century of complexity”. A major theme
 in Complexity Science is seeing how interactions between many small but interacting parts can lead the the
 emergence of dramatic results on large scales. This could be the way that the we see rare, yet occasionally

@@ -2,8 +2,9 @@
 This is the work I undertook during my Complexity and Networks course at Imperial College.
 
 
-The course was split into two parts: Complexity and Networks. This repository reflect this structure - you
-can find information regarding each half inside the respective folders.
+The course was split into a part called Complexity and one called Networks and the studentns had to complete 
+a short project for each. This repository reflects this structure - you can find information regarding each half
+inside the respective folders.
 
 This is a short piece about the Complexity and Networks course:
 
